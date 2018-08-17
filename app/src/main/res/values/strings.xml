@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InventoryApp_Stage2</string>
+    <string name="action_Insert">Insert Item</string>
+    <string name="Name">Name</string>
+    <string name="Price">Price</string>
+    <string name="Quantity">Quantity</string>
+    <string name="Supplier_Name">Supplier Name</string>
+    <string name="Increase_Button">Increase</string>
+    <string name="Decrease_Button">Decrease</string>
+    <string name="Supply_Button">Supply</string>
+    <string name="Delete_Button">Delete</string>
+    <string name="Phone">Phone number</string>
+    <string name="Empty_Database_error">There\'s no data at the moment, to enter new data click on the fab button at the bottom and then fill your product info</string>
+    <string name="product_name_hint">Product Name</string>
+    <string name="price_price">Price</string>
+    <string name="quantity_hint">Quantity</string>
+    <string name="suplier_name_hint">Suplier Name</string>
+    <string name="supplier_phone_hint">Supplier Phone</string>
+    <string name="textview_custom">TextView</string>
+    <string name="scale_custom">scale</string>
+
+</resources>
